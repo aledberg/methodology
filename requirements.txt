@@ -4,3 +4,4 @@ ipympl
 ffmpeg
 pandas
 scipy
+networkx
